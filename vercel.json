@@ -1,8 +1,0 @@
-{
-  "functions": {
-    "api/index.py": {
-      "includeFiles": "utils/**"
-    }
-  },
-  "routes": [{ "src": "/", "dest": "api/datee.py" }]
-}
