@@ -33,6 +33,11 @@ const Home: NextPage = () => {
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
+          <a href="/test" className={styles.card}>
+            <h2>TEST &rarr;</h2>
+            <p>click here aaaaa aaaaa aaa  a a a aaaaaaa aaaaaaaaa aaaa a aaaaa aaa a aaaa</p>
+          </a>
+
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
