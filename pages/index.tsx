@@ -34,6 +34,8 @@ const Home: NextPage = () => {
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
+          {/* <a href="/test">Hello Bad Link</a> */}
+
           <Link href="/test">
             <a className={styles.card}>
               <h2>TEST &rarr;</h2>
