@@ -36,5 +36,5 @@ yarn-error.log*
 next-env.d.ts
 
 #
-worklog.txt
+worklog*
 __pycache__

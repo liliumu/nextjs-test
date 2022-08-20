@@ -1,5 +1,4 @@
 from http.server import BaseHTTPRequestHandler
-from datetime import datetime
 from .test import hello
 from .a.b import c
 from cowpy import cow
